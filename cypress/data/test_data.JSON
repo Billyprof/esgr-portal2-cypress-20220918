@@ -1,0 +1,16 @@
+{ 
+    "users": [
+        {
+            "username": "tgu005",
+            "password": "ESGR12345!",
+            "first_name": "Tenki",
+            "last_name": "Gu",
+        },
+        {
+            "username": "tgugu955",
+            "password": "ESGR12345!",
+            "first_name": "Tenki",
+            "last_name": "Gu",
+        }
+    ]
+}
